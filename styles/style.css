@@ -1,0 +1,31 @@
+body {
+    background-color: grey;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#recipes-list {
+    list-style: none;
+}
+
+a {
+    font-size: 25px;
+}
+
+.header {
+    border: 2px solid;
+    padding: 10px;
+}
+
+.header h2 {
+    margin: 10px;
+}
+
+.header img {
+    height: 300px;
+    width: auto;
+}
+
+ol li {
+    margin: 6px;
+}
